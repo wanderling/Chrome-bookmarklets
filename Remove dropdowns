@@ -1,1 +1,1 @@
-javascript: var elements = document.getElementsByClassName("md-menu"); while (elements.length > 0) elements[0].remove(); var a = document.getElementsByClassName("card"); a[0].parentNode.removeChild(a[0]); alert("Done!");
+javascript: var elements = document.getElementsByClassName("md-menu"); while (elements.length > 1) elements[0].remove(); var a = document.getElementsByClassName("card"); a[0].parentNode.removeChild(a[0]); alert("Done!");
